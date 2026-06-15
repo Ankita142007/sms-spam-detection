@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMS Spam Detection System
 
 An end-to-end Machine Learning and NLP application for classifying SMS messages as Spam or Legitimate.
@@ -35,3 +36,7 @@ SMS Message
 ## Author
 
 Ankita Banerjee
+=======
+# sms-spam-detection
+SMS Spam Detection using NLP, TF-IDF and Machine Learning
+>>>>>>> 5f8c8de15fbd8a32eadbeeee6056fc9d71e0f95f
